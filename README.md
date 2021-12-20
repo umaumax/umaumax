@@ -1,5 +1,5 @@
 *   [GitLab](https://gitlab.com/umaumax)
-*   [main blog memo](https://gitlab.com/umaumax/memo/-/wikis/home)
+*   [main memo blog](https://gitlab.com/umaumax/memo/-/wikis/home)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaumax&hide=html)
 
